@@ -1,5 +1,7 @@
 # Verbosity
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Longer Tweets on Twitter.  Based on the idea tweeted by [Paul
 Haddad](https://twitter.com/#!/tapbot_paul/status/187669534407262208).
 
